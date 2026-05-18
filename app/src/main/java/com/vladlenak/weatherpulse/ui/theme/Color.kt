@@ -1,4 +1,4 @@
-package com.example.weatherpulse.ui.theme
+package com.vladlenak.weatherpulse.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
